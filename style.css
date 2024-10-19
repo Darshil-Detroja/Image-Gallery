@@ -1,6 +1,6 @@
 /* Full-page background image that scrolls */
 body {
-  background-image: url('/Project/Back\ Ground.jpg');
+  background-image: url('/Background/Back\ Ground.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
